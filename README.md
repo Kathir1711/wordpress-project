@@ -1,4 +1,4 @@
-
+8
 # Project iQ
 
 ## Overview
@@ -80,8 +80,8 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## Acknowledgements
 
 - [WordPress](https://wordpress.org) - Open-source content management system
-- [Bootstrap](https://getbootstrap.com) - Front-end framework used (if applicable)
-- [Any other frameworks, tools, or resources you used]
+- [Bootstrap](https://getbootstrap.com) - Front-end framework 
+
 
 ```
 
