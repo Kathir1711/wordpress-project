@@ -55,7 +55,7 @@ https://kathir83.wordpress.com/
 ## Folder Structure
 
 ```
-your-project-name/
+project iQ/
 ├── assets/               # Images, fonts, and other media assets
 ├── css/                  # Compiled CSS files
 ├── js/                   # JavaScript files
