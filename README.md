@@ -1,5 +1,7 @@
 8
 # Project iQ
+ 
+WordPress Project IQ is a customizable platform that enhances website management by integrating advanced analytics, SEO tools, and project tracking features, enabling users to optimize content and monitor site performance effectively. It leverages WordPress's flexible framework for seamless integration with existing plugins and themes.
 
 ## Overview
 
