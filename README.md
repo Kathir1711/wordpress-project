@@ -1,4 +1,4 @@
-8
+
 # Project iQ
  
 WordPress Project IQ is a customizable platform that enhances website management by integrating advanced analytics, SEO tools, and project tracking features, enabling users to optimize content and monitor site performance effectively. It leverages WordPress's flexible framework for seamless integration with existing plugins and themes.
@@ -28,25 +28,25 @@ https://kathir83.wordpress.com/
 
 ### Steps
 
-1.
 
-2. **Install WordPress**:
+
+**Install WordPress**:
    Download and install WordPress from the [official website](https://wordpress.org/download/) or set it up locally using [Local by Flywheel](https://localwp.com/) or [MAMP](https://www.mamp.info/).
 
-3. **Move Project Files**:
+**Move Project Files**:
    Move the project files into the `wp-content/themes/your-theme-name` directory for themes or `wp-content/plugins/your-plugin-name` for plugins.
 
-4. **Install Dependencies** (Optional):
+**Install Dependencies** (Optional):
    If your project includes dependencies:
    - **PHP Dependencies**: Run `composer install` if your project uses Composer.
    - **Node.js Dependencies**: Run `npm install` or `yarn install` if using npm or yarn for front-end assets.
 
-5. **Activate Theme/Plugin**:
+**Activate Theme/Plugin**:
    - Go to your WordPress admin dashboard.
    - Navigate to `Appearance > Themes` and activate your theme.
    - Navigate to `Plugins > Installed Plugins` and activate your plugin(s).
 
-6. **Import Demo Content** (Optional):
+**Import Demo Content** (Optional):
    - Import demo content if provided, using the WordPress Importer.
 
 ### Usage
